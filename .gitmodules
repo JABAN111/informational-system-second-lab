@@ -1,0 +1,6 @@
+[submodule "SecondLabIs"]
+	path = SecondLabIs
+	url = https://github.com/JABAN111/SecondLabIs.git
+[submodule "SecondLabFrontedIs"]
+	path = SecondLabFrontedIs
+	url = https://github.com/JABAN111/SecondLabFrontedIs.git
